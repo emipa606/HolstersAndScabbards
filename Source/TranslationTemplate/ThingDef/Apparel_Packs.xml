@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: quiver -->
+  <Apparel_ArrowBelt.label>quiver</Apparel_ArrowBelt.label>
+  <!-- EN: A quiver that pockets arrows. -->
+  <Apparel_ArrowBelt.description>A quiver that pockets arrows.</Apparel_ArrowBelt.description>
+  <!-- EN: axe scabbard -->
+  <Apparel_AxeBelt.label>axe scabbard</Apparel_AxeBelt.label>
+  <!-- EN: A scabbard that pockets battle axes. -->
+  <Apparel_AxeBelt.description>A scabbard that pockets battle axes.</Apparel_AxeBelt.description>
+  <!-- EN: knife scabbard -->
+  <Apparel_KnifeBelt.label>knife scabbard</Apparel_KnifeBelt.label>
+  <!-- EN: A scabbard that pockets small blades. -->
+  <Apparel_KnifeBelt.description>A scabbard that pockets small blades.</Apparel_KnifeBelt.description>
+  <!-- EN: gun holster -->
+  <Apparel_PistolBelt.label>gun holster</Apparel_PistolBelt.label>
+  <!-- EN: A holster that pockets small guns. -->
+  <Apparel_PistolBelt.description>A holster that pockets small guns.</Apparel_PistolBelt.description>
+  <!-- EN: rifle scabbard -->
+  <Apparel_RifleBelt.label>rifle scabbard</Apparel_RifleBelt.label>
+  <!-- EN: A scabbard that pockets large guns. -->
+  <Apparel_RifleBelt.description>A scabbard that pockets large guns.</Apparel_RifleBelt.description>
+  <!-- EN: sword scabbard -->
+  <Apparel_SwordBelt.label>sword scabbard</Apparel_SwordBelt.label>
+  <!-- EN: A scabbard that pockets large blades. -->
+  <Apparel_SwordBelt.description>A scabbard that pockets large blades.</Apparel_SwordBelt.description>
+</LanguageData>
